@@ -1,0 +1,15 @@
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.csproj.AssemblyReference.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.AssemblyInfoInputs.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.AssemblyInfo.cs
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.csproj.CoreCompileInputs.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\bin\Debug\net6.0\Work1.exe
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\bin\Debug\net6.0\Work1.deps.json
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\bin\Debug\net6.0\Work1.runtimeconfig.json
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\bin\Debug\net6.0\Work1.dll
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\bin\Debug\net6.0\Work1.pdb
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.dll
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\refint\Work1.dll
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.pdb
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\Work1.genruntimeconfig.cache
+C:\Users\ale24\Desktop\GeekBraince\c#\HomeWorks\HomeWorksDay8\Work1\obj\Debug\net6.0\ref\Work1.dll
